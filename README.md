@@ -16,3 +16,7 @@
   * [Группы](user_instructions/groups.md)
   * [Задачи](user_instructions/tasks.md)
   * [Оборудование](user_instructions/devices.md)
+* Инструции администратора
+  * Установка
+    * [Ручная](administrator_instructions/adm.md)
+    * [Docker](administrator_instructions/docker_install.md)
