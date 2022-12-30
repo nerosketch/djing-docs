@@ -10,3 +10,4 @@
 
 * Инструкция пользователя
   * [Таблицы](user_instructions/tables.md)
+  * [Тарифы (услуги)](user_instructions/services.md)
