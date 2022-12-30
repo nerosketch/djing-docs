@@ -15,3 +15,4 @@
   * [Учётная запись абонента](user_instructions/customers.md)
   * [Группы](user_instructions/groups.md)
   * [Задачи](user_instructions/tasks.md)
+  * [Оборудование](user_instructions/devices.md)
