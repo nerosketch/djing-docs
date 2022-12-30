@@ -13,6 +13,7 @@
   * [Тарифы (услуги)](user_instructions/services.md)
   * [Учётные записи сотруников](user_instructions/profiles.md)
   * [Учётная запись абонента](user_instructions/customers.md)
+  * [Учётная запись ЮР лица](user_instructions/jur.md)
   * [Группы](user_instructions/groups.md)
   * [Задачи](user_instructions/tasks.md)
   * [Оборудование](user_instructions/devices.md)
