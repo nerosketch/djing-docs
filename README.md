@@ -12,3 +12,5 @@
   * [Таблицы](user_instructions/tables.md)
   * [Тарифы (услуги)](user_instructions/services.md)
   * [Учётные записи сотруников](user_instructions/profiles.md)
+  * [Учётная запись абонента](user_instructions/customers.md)
+  * [Группы](user_instructions/groups.md)
