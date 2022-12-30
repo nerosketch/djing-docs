@@ -14,3 +14,4 @@
   * [Учётные записи сотруников](user_instructions/profiles.md)
   * [Учётная запись абонента](user_instructions/customers.md)
   * [Группы](user_instructions/groups.md)
+  * [Задачи](user_instructions/tasks.md)
