@@ -8,6 +8,7 @@
 
 * Инструкция пользователя
   * [Таблицы](user_instructions/tables.md)
+  * [Адреса](user_instructions/addresses.md)
   * [Тарифы (услуги)](user_instructions/services.md)
   * [Учётная запись сотруника](user_instructions/profiles.md)
   * [Учётная запись абонента](user_instructions/customers.md)
